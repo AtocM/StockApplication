@@ -1,0 +1,9 @@
+C:\Users\Murat\Desktop\Dropbox\Development\cSharp\StockApplication\StockApplication\bin\Debug\StockApplication.exe.config
+C:\Users\Murat\Desktop\Dropbox\Development\cSharp\StockApplication\StockApplication\bin\Debug\StockApplication.exe
+C:\Users\Murat\Desktop\Dropbox\Development\cSharp\StockApplication\StockApplication\bin\Debug\StockApplication.pdb
+C:\Users\Murat\Desktop\Dropbox\Development\cSharp\StockApplication\StockApplication\obj\Debug\StockApplication.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\Dropbox\Development\cSharp\StockApplication\StockApplication\obj\Debug\StockApplication.Form1.resources
+C:\Users\Murat\Desktop\Dropbox\Development\cSharp\StockApplication\StockApplication\obj\Debug\StockApplication.Properties.Resources.resources
+C:\Users\Murat\Desktop\Dropbox\Development\cSharp\StockApplication\StockApplication\obj\Debug\StockApplication.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\Dropbox\Development\cSharp\StockApplication\StockApplication\obj\Debug\StockApplication.exe
+C:\Users\Murat\Desktop\Dropbox\Development\cSharp\StockApplication\StockApplication\obj\Debug\StockApplication.pdb
